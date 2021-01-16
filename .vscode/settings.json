@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.useEditorConfig": false,
+    "prettier.useTabs": true,
+    "prettier.resolveGlobalModules": true,
+    "editor.wordWrap": "on"
+}
