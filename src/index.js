@@ -9,6 +9,8 @@ import {greeting} from './testing/testing'
 
 
 function BookList() {
+      console.log(greeting);
+
   return (
     <section className='Booklist'>
       {/* <Book img={firstBook.img}
